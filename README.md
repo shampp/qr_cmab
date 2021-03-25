@@ -16,6 +16,7 @@ The repo features the experimental analysis on [Maximum utility Based Arm Select
 * matplotlib
 * sentence-transformers
 * sklearn
+* code is based on striatum package
 
 ## Experiment Data
 
