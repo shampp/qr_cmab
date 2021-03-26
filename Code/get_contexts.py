@@ -7,8 +7,8 @@ from matplotlib import rc
 from sklearn.metrics.pairwise import cosine_similarity,linear_kernel
 
 
-model_dir = '../Data/semanticscholar/model/'
-arms_file = '../Data/semanticscholar/processed_data.tsv'
+model_dir = '../Data/dataset/model/'
+arms_file = '../Data/dataset/processed_data.tsv'
 
 
 def get_word_embedding(X):
