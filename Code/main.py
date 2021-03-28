@@ -10,9 +10,9 @@ def main():
     for dt in dataset:
         #df = preprocess(dt)
         #tokenize(df,dt)
-        run_bandit_sim(dt)
+        #run_bandit_sim(dt)
         #run_bandit_arm(dt)
-        #run_bandit_round(dt)
+        run_bandit_round(dt)
         
 
 if __name__ == '__main__':
