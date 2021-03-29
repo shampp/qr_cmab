@@ -7,3 +7,11 @@ XXXX078	       2020-X-X X:49:38.X   	cryptocurrency transfer system
 XXXX078	       2020-X-X X:49:55.X   	cryptocurrency transaction system  
 XXXX078	       2020-X-X X:06:49.X   	cryptocurrency transaction analysis from a network perspective  
 XXXX078	       2020-X-X X:20:19.X   	cryptocurrency trackability  
+XXXX495        2020-X-X X:04:03.X     protocol state fuzzing of tls implementations
+XXXX495        2020-X-X X:08:45.X     aflnet a greybox fuzzer for network protocols
+XXXX495        2020-X-X X:33:04.X     protocol learning fuzzing
+XXXX495        2020-X-X X:42:33.X     improving grey box fuzzing by modeling program behavior
+XXXX495        2020-X-X X:03:22.X     poster fuzzing iot firmware via multi stage message generation
+XXXX495        2020-X-X X:05:34.X     fuzzguard filtering out unreachable inputs in directed grey box fuzzing through deep learning
+XXXX495        2020-X-X X:13:17.X     a functional method for assessing protocol implementation security
+XXXX495        2020-X-X X:19:17.X     not all bytes are equal neural byte sieve for fuzzing
