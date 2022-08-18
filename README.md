@@ -1,10 +1,16 @@
 # Maximum utility Based Arm Selection Strategy For Sequential Query Recommendations
 
 The repo features the experimental analysis on [Maximum utility Based Arm Selection Strategy For Sequential Query Recommendations
-](http://link.coming/).
+](https://proceedings.mlr.press/v157/puthiya-parambath21a/puthiya-parambath21a.pdf).
 
 ```
-@inproceedings{
+@inproceedings{parambath2021max,
+  title={Max-Utility Based Arm Selection Strategy For Sequential Query Recommendations},
+  author={Parambath, Shameem Puthiya and Anagnostopoulos, Christos and Murray-Smith, Roderick and MacAvaney, Sean and others},
+  booktitle={Asian Conference on Machine Learning},
+  pages={564--579},
+  year={2021},
+  organization={PMLR}
 }
 ```
 
